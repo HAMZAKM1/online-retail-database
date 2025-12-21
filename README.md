@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Online Retail Sales Database Design
 
 
@@ -60,3 +61,7 @@ Hamza
 
 
 
+=======
+# online-retail-database
+Online Retail Sales Database Design using MySQL
+>>>>>>> f131f69031abd2754f66e6f9a429e56679794ca7
