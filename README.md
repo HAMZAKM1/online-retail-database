@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 \# Online Retail Sales Database Design
 
 
